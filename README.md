@@ -1,2 +1,2 @@
-# ml-2025-1
-Web site of the course Machine Learning 2025-1
+# ml-2024-1
+Machine Learning course website 2024-1 https://fagonzalezo.github.io/ml-2024-1/ 
