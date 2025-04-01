@@ -1,7 +1,7 @@
-title: Machine Learning 2024-I
+title: Machine Learning 2025-I
 description: Universidad Nacional de Colombia, Bogotá
 sitename: Machine Learning
-baseurl: '/ml-2024-1'
+baseurl: '/ml-2025-1'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
