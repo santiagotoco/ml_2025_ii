@@ -40,7 +40,7 @@ image:
 				[Dei20] Chap 8 (<a href= "https://mml-book.github.io">book</a>)<br>
 			</td>
 			<td>
-				<a href= "https://colab.research.google.com/drive/1U3q5ikD9CjAB5xBHFKQsvumiyrmxouHF?usp=sharing">Practice problems 2</a>
+				<a href= "https://colab.research.google.com/drive/1bd14T6F-tVh6c9hJ_3sNGspbQvSzwfvy?usp=share_link">Practice problems 2</a>
 			</td>
 		</tr>
 		<tr>
