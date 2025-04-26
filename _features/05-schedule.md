@@ -14,7 +14,7 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<tr>
-			<td>Abr 1</td>
+			<td>Apr 1</td>
 			<td>
 			Course presentation<br>
 			1.1 History of ML<br>
@@ -29,7 +29,7 @@ image:
 			</td>
 		</tr>
 		<tr>			
-			<td>Abr 8</td>
+			<td>Apr 8</td>
 			<td>1.2 The learning problem</td>
 			<td>
 				<strong>Synchronous Class:</strong><br> 
@@ -44,7 +44,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 22<br>
+			<td>Apr 22<br>
 			</td>
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
@@ -78,7 +78,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 29</td>
+			<td>Apr 29</td>
 			<td>2.1 Bayesian decision theory</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -98,6 +98,7 @@ image:
 			</td>
 			<td>
 				<a href= "problems3.pdf">Practice problems 3</a><br>
+				Optional additional exercises: [Alp14] Ex. 1-6<br>
 			</td>
 		</tr>
 		<tr>
