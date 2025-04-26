@@ -98,7 +98,7 @@ image:
 			</td>
 			<td>
 				<a href= "problems3.pdf">Practice problems 3</a><br>
-				Optional additional exercises: [Alp14] Ex. 1-6<br>
+				Optional additional exercises: [Alp14] Chap 3 Ex. 1-6<br>
 			</td>
 		</tr>
 		<tr>
