@@ -72,13 +72,15 @@ image:
 				- 21. Post-hoc tests (<a href= "https://drive.google.com/file/d/1-OJsNnIcM9I5GuQ4PiKUXLDirIV0yMpH/view?usp=sharing">video</a> 9m)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 19 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf">slides</a>) <br>
+				<strong>Synchronous class</strong><br>
+				Meet recording: <a href= "https://drive.google.com/file/d/1aNinKvre6u2141BYCkTwivsGxlsFA-iU/view?usp=sharing">video</a>
 			</td>
 			<td>
 				<a href= "problems2.5.pdf">Practice problems 2.5</a><br>
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 29</td>
+			<td>May 6</td>
 			<td>2.1 Bayesian decision theory</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -102,7 +104,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 6</td>
+			<td>May 13</td>
 			<td>2.2 Parametric estimation</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -121,7 +123,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>May 20</td>
 			<td>3.2 Kernel methods</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
@@ -155,7 +157,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>May 27</td>
 			<td>
 				4.1 Neural networks 
 			</td>
@@ -182,7 +184,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Jun 3</td>
 			<td>
 			 	4.2 Differentiable programming <br>
 			</td>
@@ -202,7 +204,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 3</td>
+			<td>Jun 10</td>
 			<td>
 				4.3 Deep learning <br>
 			</td>
@@ -224,7 +226,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 10</td>
+			<td>Jun 17</td>
 			<td>
 				5.1 Variational inference <br>
 				5.2 Diffusion models
@@ -238,7 +240,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 17</td>
+			<td>Jun 24</td>
 			<td>
 				5.3 Large Language Models <br>
 			</td>
@@ -249,7 +251,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 24</td>
+			<td>Jul 1</td>
 			<td>
 				6 Kernel density matrices
 			</td>
