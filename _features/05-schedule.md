@@ -120,6 +120,7 @@ image:
 			</td>
 			<td>
 				<a href= "problems4.pdf">Practice problems 4</a><br>
+				Optional additional exercises: [Alp14] Chap 4 Sect 4.10 Ex. 1-8<br>
 			</td>
 		</tr>
 		<tr>
