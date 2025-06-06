@@ -38,13 +38,21 @@ image:
 
 4.3 Deep learning
 
+4.4 Convolutional neural networks
+
 5 **Generative models**
 
-5.1 Variational inference
+5.1 Autoencoders
 
-5.2 Diffusion models
+5.2 Variational autoencoders
 
-5.3 Large language models
+5.3 Diffusion models
+
+5.4 Attention mechanisms
+
+5.5 Transformers
+
+5.6 Language models
 
 6 **Kernel density matrices**
 

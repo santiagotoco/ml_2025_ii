@@ -208,6 +208,7 @@ image:
 			<td>Jun 10</td>
 			<td>
 				4.3 Deep learning <br>
+				4.4 Convolutional neural networks <br>
 			</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
@@ -223,30 +224,35 @@ image:
 			</td>
 			<td>
 				<a href= "problems9.pdf">Practice problems 9</a><br>
-				<a href= "https://www.dropbox.com/request/SMrO1Oz436dxhmNM5PMa">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (15/05/24)
 			</td>
 		</tr>
 		<tr>
 			<td>Jun 17</td>
 			<td>
-				5.1 Variational inference <br>
-				5.2 Diffusion models
+				5.1 Autoencoders <br>
+				5.2 Variational autoencoders <br>
 			</td>
 			<td>
-			<strong>Asynchronous class</strong><br>
-			Alexander Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
+			<strong>Synchronous class</strong><br>
+			<strong>Reading material and resources</strong><br>
+			[Bis24] Chap 19 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/574">Autoencoders</a><br>
+			Ava Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
 			Deep generative models (<a href= "https://colab.research.google.com/drive/1g6EswE4dqjLD9P1CgJUPdFv_KNpOcg4J#scrollTo=uZXj0GvSdEsq">Jupyter notebook</a>)
 			</td>
 			<td>
+			<a href= "https://www.dropbox.com/request/SMrO1Oz436dxhmNM5PMa">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (15/05/24)<br>
 			</td>
 		</tr>
 		<tr>
 			<td>Jun 24</td>
 			<td>
-				5.3 Large Language Models <br>
+				5.4 Attention mechanisms <br>
+				5.5 Transformers <br>
 			</td>
 			<td>
-			<strong>Asynchronous class</strong><br>
+			<strong>Synchronous class</strong><br>
+			<strong>Reading material and resources</strong><br>
+			[Bis24] Chap 12 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/372">Transformers</a><br>
 			</td>
 			<td>
 			</td>
@@ -254,7 +260,20 @@ image:
 		<tr>
 			<td>Jul 1</td>
 			<td>
-				6 Kernel density matrices
+				5.6 Language models <br>
+			</td>
+			<td>
+			<strong>Synchronous class</strong><br>
+			<strong>Reading material and resources</strong><br>
+			[Bis24] Chap 12 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/372">Transformers</a><br>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>Jul 15</td>
+			<td>
+				5.6 Kernel density matrices
 			</td>
 			<td>
 				<strong>Reading material and resources</strong><br>
@@ -266,7 +285,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jul 1</td>
+			<td>Jul 17</td>
 			<td>Final Project</td>
 			<td>
 			</td>
