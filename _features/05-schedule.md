@@ -240,7 +240,7 @@ image:
 			Deep generative models (<a href= "https://colab.research.google.com/drive/1g6EswE4dqjLD9P1CgJUPdFv_KNpOcg4J#scrollTo=uZXj0GvSdEsq">Jupyter notebook</a>)
 			</td>
 			<td>
-			<a href= "https://www.dropbox.com/request/SMrO1Oz436dxhmNM5PMa">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (15/05/24)<br>
+			<a href= "https://www.dropbox.com/request/Aal37MH4IIdtDRGvM96b">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (16/06/25)<br>
 			</td>
 		</tr>
 		<tr>
