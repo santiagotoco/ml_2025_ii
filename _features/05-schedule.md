@@ -233,14 +233,16 @@ image:
 				5.2 Variational autoencoders <br>
 			</td>
 			<td>
-			<strong>Synchronous class</strong><br>
-			<strong>Reading material and resources</strong><br>
-			[Bis24] Chap 19 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/574">Autoencoders</a><br>
-			Ava Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
-			Autoencoders and variational autoencoders (<a href= "https://colab.research.google.com/drive/1YC78dsq2YTZgsbyrq3uLc0EDfebg6Yr0?usp=sharing">Jupyter notebook</a>)
+				<strong>Synchronous class</strong><br>
+				Autoencoders and variational autoencoders (<a href= "https://drive.google.com/file/d/1E05I7RhaBougkgKrR62WWWKW1QMGKHYB/view?usp=sharing">video</a>, <a href= "VAE ELBO derivation.pdf">ELBO derivation notes</a>)<br>
+				<strong>Reading material and resources</strong><br>
+				[Bis24] Chap 19 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/574">Autoencoders</a><br>
+				Ava Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
+				Autoencoders and variational autoencoders (<a href= "https://colab.research.google.com/drive/1YC78dsq2YTZgsbyrq3uLc0EDfebg6Yr0?usp=sharing">Jupyter notebook</a>)
 			</td>
 			<td>
-			<a href= "https://www.dropbox.com/request/Aal37MH4IIdtDRGvM96b">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (16/06/25)<br>
+				<a href= "problems10.pdf">Practice problems 10</a><br>
+				<a href= "https://www.dropbox.com/request/Aal37MH4IIdtDRGvM96b">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (16/06/25)<br>
 			</td>
 		</tr>
 		<tr>
