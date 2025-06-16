@@ -243,6 +243,7 @@ image:
 			<td>
 				<a href= "problems10.pdf">Practice problems 10</a><br>
 				<a href= "https://www.dropbox.com/request/Aal37MH4IIdtDRGvM96b">Project proposal</a>: 3 persons per group, pdf with maximum 2 pages describing problem, objectives and method (16/06/25)<br>
+				<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
