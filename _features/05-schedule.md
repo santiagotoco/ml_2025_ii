@@ -258,6 +258,7 @@ image:
 			[Bis24] Chap 12 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/372">Transformers</a><br>
 			</td>
 			<td>
+			<a href= "problems11.pdf">Practice problems 11</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +275,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jul 15</td>
+			<td>Jul 8</td>
 			<td>
 				5.6 Kernel density matrices
 			</td>
