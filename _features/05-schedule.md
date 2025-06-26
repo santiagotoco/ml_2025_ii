@@ -256,6 +256,7 @@ image:
 			<strong>Synchronous class</strong><br>
 			<strong>Reading material and resources</strong><br>
 			[Bis24] Chap 12 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/372">Transformers</a><br>
+			Introduction to Transformers (<a href= "https://colab.research.google.com/drive/1zsCVtS8VGRjqiCjdPIenFPOQUl0n8lsb?usp=sharing">Jupyter notebook</a>)
 			</td>
 			<td>
 			<a href= "problems11.pdf">Practice problems 11</a><br>
