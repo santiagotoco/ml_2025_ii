@@ -253,10 +253,10 @@ image:
 				5.5 Transformers <br>
 			</td>
 			<td>
-			<strong>Synchronous class</strong><br>
+			<strong>Synchronous class</strong><br>			
+			Introduction to Transformers (<a href= "https://drive.google.com/file/d/1IYWYIKlW05ilOBJEln9xJurh9poRN0DX/view?usp=sharing">video</a>, <a href= "https://colab.research.google.com/drive/1zsCVtS8VGRjqiCjdPIenFPOQUl0n8lsb?usp=sharing">Jupyter notebook</a>)<br>
 			<strong>Reading material and resources</strong><br>
 			[Bis24] Chap 12 <a href= "https://issuu.com/cmb321/docs/deep_learning_ebook/372">Transformers</a><br>
-			Introduction to Transformers (<a href= "https://colab.research.google.com/drive/1zsCVtS8VGRjqiCjdPIenFPOQUl0n8lsb?usp=sharing">Jupyter notebook</a>)
 			</td>
 			<td>
 			<a href= "problems11.pdf">Practice problems 11</a><br>
