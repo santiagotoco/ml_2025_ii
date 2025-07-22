@@ -7,10 +7,11 @@ image:
 ---
 
 ### Instructor
-[Fabio A. González](https://fagonzalezo.github.io/)  
-*Profesor Titular*  
-*Depto de Ingeniería de Sistemas e Industrial*  
-*Universidad Nacional de Colombia*
+
+[Santiago Toledo Cortés](https://fagonzalezo.github.io/)  
+*Profesor Asistente*  
+*Depto de Tecnologías de la Información y Optimización de Procesos*  
+*Universidad de La Sabana*
 
 ### Course goal
 The main goal of Machine Learning (ML) is the development of systems that are able to autonomously change their behavior based on experience. ML offers some of the more effective techniques for knowledge discovery in large data sets. ML has played a fundamental role in areas such as bioinformatics, information retrieval, business intelligence and autonomous vehicle development.
