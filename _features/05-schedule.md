@@ -14,7 +14,7 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<tr>
-			<td>Apr 1</td>
+			<td>Jul 22</td>
 			<td>
 			Course presentation<br>
 			1.1 History of ML<br>
