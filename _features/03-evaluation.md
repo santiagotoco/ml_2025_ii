@@ -11,4 +11,4 @@ image:
 * Exam 30%
 * Final project 30%
 
-[Grades](https://docs.google.com/spreadsheets/d/1peyU9HAd_tZhV3kLELM2gWiQoiZVAx4vnpH7Aqx_xBU/edit?usp=sharing)
+[Grades]()
