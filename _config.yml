@@ -1,7 +1,7 @@
-title: Machine Learning 2025-I
-description: Universidad Nacional de Colombia, Bogotá
+title: Machine Learning 2025-ii
+description: Universidad de La Sabana
 sitename: Machine Learning
-baseurl: '/ml-2025-1'
+baseurl: '/ml_2025_ii'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
