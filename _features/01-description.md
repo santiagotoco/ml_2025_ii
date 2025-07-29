@@ -9,11 +9,12 @@ image:
 ### Instructor
 
 [Santiago Toledo Cortés](https://fagonzalezo.github.io/)  
-*Profesor Asistente*  
-*Depto de Tecnologías de la Información y Optimización de Procesos*  
+*Assistant Professor*  
+*Department of Information Technology and Process Optimization*  
 *Universidad de La Sabana*
 
 ### Course goal
-The main goal of Machine Learning (ML) is the development of systems that are able to autonomously change their behavior based on experience. ML offers some of the more effective techniques for knowledge discovery in large data sets. ML has played a fundamental role in areas such as bioinformatics, information retrieval, business intelligence and autonomous vehicle development.
+Machine learning (ML) aims to build systems capable of learning from experience and adapting their behavior accordingly. It offers powerful methods for extracting insights from large volumes of data and has become a cornerstone in fields such as bioinformatics, information retrieval, business analytics, and autonomous systems.
 
-The main goal of this course is to study the computational, mathematical and statistical foundations of ML, which are essential for the theoretical analysis of existing learning algorithms, the development of new algorithms and the well-founded application of ML to solve real-world problems.
+This course emphasizes the mathematical, statistical, and computational principles that underpin machine learning. These core concepts are critical for analyzing current algorithms, designing new models, and applying ML effectively to real-world challenges.
+

@@ -29,7 +29,7 @@ image:
 			</td>
 		</tr>
 		<tr>			
-			<td>Apr 8</td>
+			<td>Jul 29</td>
 			<td>1.2 The learning problem</td>
 			<td>
 				<strong>Synchronous Class:</strong><br> 
@@ -40,11 +40,11 @@ image:
 				[Dei20] Chap 8 (<a href= "https://mml-book.github.io">book</a>)<br>
 			</td>
 			<td>
-				<a href= "https://colab.research.google.com/drive/1bd14T6F-tVh6c9hJ_3sNGspbQvSzwfvy?usp=share_link">Practice problems 2</a>
+				<a href= "https://drive.google.com/file/d/1Qk81cyTzwt01dQy-mpyX_dDKLujilQeU/view?usp=sharing">Practice problems 2</a>
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 22<br>
+			<td>Aug<br>
 			</td>
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
@@ -80,7 +80,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 6</td>
+			<td>Aug</td>
 			<td>2.1 Bayesian decision theory</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -104,7 +104,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>Aug</td>
 			<td>2.2 Parametric estimation</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -124,7 +124,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>Sept</td>
 			<td>3.2 Kernel methods</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
@@ -158,7 +158,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Sept</td>
 			<td>
 				4.1 Neural networks 
 			</td>
@@ -185,7 +185,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 3</td>
+			<td>Sept</td>
 			<td>
 			 	4.2 Differentiable programming <br>
 			</td>
@@ -205,7 +205,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 10</td>
+			<td>Oct</td>
 			<td>
 				4.3 Deep learning <br>
 				4.4 Convolutional neural networks <br>
@@ -227,7 +227,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 17</td>
+			<td>Oct</td>
 			<td>
 				5.1 Autoencoders <br>
 				5.2 Variational autoencoders <br>
@@ -247,7 +247,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 24</td>
+			<td>Oct</td>
 			<td>
 				5.4 Attention mechanisms <br>
 				5.5 Transformers <br>
@@ -263,7 +263,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jul 1</td>
+			<td>Oct</td>
 			<td>
 				5.6 Language models <br>
 			</td>
@@ -276,7 +276,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jul 8</td>
+			<td>Oct</td>
 			<td>
 				5.6 Kernel density matrices
 			</td>
@@ -290,7 +290,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jul 17</td>
+			<td>Nov</td>
 			<td>Final Project</td>
 			<td>
 			</td>
