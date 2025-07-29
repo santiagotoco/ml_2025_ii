@@ -33,7 +33,7 @@ image:
 			<td>1.2 The learning problem</td>
 			<td>
 				<strong>Synchronous Class:</strong><br> 
-				- Different approaches to solve a classification problem (<a href= "https://drive.google.com/file/d/11Qeire-X3UKdi4BMuNA4nhZUbivNNucj/view?usp=sharing">notebook</a>, <a href= "https://drive.google.com/file/d/1xJCxvCTpHW1U8Dx3xKWemOcejtCHyYPT/edit?t=102">video </a>)<br>
+				- Different approaches to solve a classification problem (<a href= "https://drive.google.com/file/d/1BonQw4aWWXHrkxAjitcRZZ6sZ17JnbcO/view?usp=sharing">notebook</a>, <a href= "https://drive.google.com/file/d/1xJCxvCTpHW1U8Dx3xKWemOcejtCHyYPT/edit?t=102">video </a>)<br>
 				- The learning problem ( <a href= "The Learning Problem.pdf">slides</a>,  <a href= "https://drive.google.com/file/d/1Owyjre8esB8kG903Zk7LrCnRIM9aW2kz/edit?t=1930">video</a>)<br>
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 1 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf">slides</a>)<br>
