@@ -116,7 +116,7 @@ image:
 				- 6. Bias and variance example (<a href= "https://drive.google.com/file/d/1EGKVhsPsMIDUyUDMd_xev-BCLspNc7R1/view?usp=drive_link">video </a>31m)<br>				
 				<strong>Reading material and resources</strong><br>
 				[Alp14] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
-				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
+				Bias and variance (<a href= "https://drive.google.com/file/d/1zhDPnG8qKescNOnk5HRET_3-sqjP8F_G/view?usp=sharing">Jupyter notebook</a>)<br>
 			</td>
 			<td>
 				<a href= "problems4.pdf">Practice problems 4</a><br>
