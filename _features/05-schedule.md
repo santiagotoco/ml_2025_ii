@@ -44,7 +44,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug<br>
+			<td>Aug 4<br>
 			</td>
 			<td>1.3 Design and analysis of ML experiments</td>
 			<td>
@@ -80,7 +80,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug</td>
+			<td>Aug 11</td>
 			<td>2.1 Bayesian decision theory</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -104,7 +104,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug</td>
+			<td>Aug 18</td>
 			<td>2.2 Parametric estimation</td>
 			<td>
 				<strong>Asynchronous class</strong> <br>
@@ -124,7 +124,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sept</td>
+			<td>Sept 9</td>
 			<td>3.2 Kernel methods</td>
 			<td>
 				<strong>Asynchronous class</strong><br>
