@@ -8,7 +8,7 @@ image:
 
 ### Instructor
 
-[Santiago Toledo Cortés](https://fagonzalezo.github.io/)  
+[Santiago Toledo Cortés](https://sites.google.com/view/santiagotoledo-cortes/)  
 *Assistant Professor*  
 *Department of Information Technology and Process Optimization*  
 *Universidad de La Sabana*
